@@ -1,0 +1,18 @@
+body{
+    background-color: blue;
+}
+
+header, nav, main, .row div{
+    background-color: aliceblue;
+    min-height: 10vh;
+    padding: 5px;
+    border: 3px solid #f36520;
+}
+
+header{
+    margin: 2vh auto;
+}
+
+nav, main{
+    min-height: 82vh;
+}
